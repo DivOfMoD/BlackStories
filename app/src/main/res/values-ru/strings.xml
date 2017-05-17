@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Black Stories</string>
+
+    <string name="banner_ad_unit_id">ca-app-pub-9614953003503909/5034559873</string>
+
+    <string name="navigation_drawer_open">Открыть панель навигации</string>
+    <string name="navigation_drawer_close">Закрыть панель навигации</string>
+
+    <string name="lang">Язык</string>
+    <string name="lang_dialog_title">Выберите язык:</string>
+    <string name="unsolved">Нерешенные</string>
+    <string name="solved">Решенные</string>
+    <string name="exiting_the_application">Выход из приложения</string>
+    <string name="quit_the_application">Выйти из приложения?</string>
+    <string name="buy_full_version">Купить полную версию</string>
+    <string name="tutorial">Правила игры</string>
+    <string name="send_your_story">Отправить свою историю</string>
+    <string name="rate_app">Оценить приложение</string>
+    <string name="close">Закрыть</string>
+    <string name="mark_as_solved">Отметить как решенное</string>
+    <string name="not_unsolved_stories">У Вас нет нерешенных историй</string>
+    <string name="more_stories_in_the_full">Больше историй в полной версии приложения!</string>
+    <string name="buy">Купить</string>
+    <string name="not_solved_stories">У Вас нет решенных историй</string>
+    <string name="send_email">Отправить письмо…</string>
+    <string name="solution">Решение</string>
+    <string name="developed_by">Приложение разработано:</string>
+    <string name="about">О нас</string>
+    <string name="tutorial_text_1">Black Stories - игра для компании.\nВыберите одного человека, который будет рассказчиком.</string>
+    <string name="tutorial_text_2">Рассказчик читает короткий рассказ всем остальным, а затем читает полную историю про себя.</string>
+    <string name="tutorial_text_3">Люди задают вопросы, и он может ответить только «да», «нет», «это не имеет значения».\nИстория считается завершенной, когда кто-нибудь рассказывает полную версию произошедшего.</string>
+    <string name="choose">Выбрать</string>
+    <string name="number_of_players">Введите количество игроков</string>
+    <string name="enter_number_error">Некорректное число!</string>
+</resources>

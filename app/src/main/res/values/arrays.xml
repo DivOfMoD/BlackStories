@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="entries_lang">
+        <item>Deutsch</item>
+        <item>English</item>
+        <item>Русский</item>
+    </string-array>
+
+    <string-array name="entry_values_lang">
+        <item>de</item>
+        <item>en</item>
+        <item>ru</item>
+    </string-array>
+
+    <integer-array name="ids">
+        <item>1</item>
+        <item>2</item>
+    </integer-array>
+
+    <string-array name="titles">
+        <item>Shadow</item>
+        <item>Mayor</item>
+    </string-array>
+
+    <string-array name="stories">
+        <item>The woman woke up at night, saw a shadow and in a couple of minutes committed suicide.</item>
+        <item>The man killed the mayor in front of the crowd, but no one prisoned him.</item>
+    </string-array>
+
+    <string-array name="full_stories">
+        <item>The woman woke up at night and saw a shadow from a post pigeon. The letter was from her husband\'s colleague, it said that the husband was dead. Unable to stand the burden of loss, the woman committed suicide.</item>
+        <item>The man worked as an executioner and executed the mayor for crimes.</item>
+    </string-array>
+</resources>

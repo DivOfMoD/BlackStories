@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="entries_lang">
+        <item>Deutsch</item>
+        <item>English</item>
+        <item>Русский</item>
+    </string-array>
+
+    <string-array name="entry_values_lang">
+        <item>de</item>
+        <item>en</item>
+        <item>ru</item>
+    </string-array>
+
+    <integer-array name="ids">
+        <item>1</item>
+        <item>2</item>
+    </integer-array>
+
+    <string-array name="titles">
+        <item>Тень</item>
+        <item>Мэр</item>
+    </string-array>
+
+    <string-array name="stories">
+        <item>Человек проснулся ночью, увидел тень и через пару минут совершил суицид.</item>
+        <item>Мужчина убил мэра на глазах у толпы, но никто не посадил его.</item>
+    </string-array>
+
+    <string-array name="full_stories">
+        <item>Женщина проснулась ночью и увидела тень от почтового голубя. Письмо было от сослуживца ее мужа, в нем говорилось, что муж погиб. Не выдержав бремя утраты, женщина совершила суицид.</item>
+        <item>Мужчина работал палачом и казнил мэра за преступления.</item>
+    </string-array>
+</resources>

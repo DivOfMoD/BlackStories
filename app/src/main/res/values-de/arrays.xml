@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="entries_lang">
+        <item>Deutsch</item>
+        <item>English</item>
+        <item>Русский</item>
+    </string-array>
+
+    <string-array name="entry_values_lang">
+        <item>de</item>
+        <item>en</item>
+        <item>ru</item>
+    </string-array>
+
+    <integer-array name="ids">
+        <item>1</item>
+        <item>2</item>
+    </integer-array>
+
+    <string-array name="titles">
+        <item>Schatten</item>
+        <item>Bürgermeister</item>
+    </string-array>
+
+    <string-array name="stories">
+        <item>Ein Mensch wachte in der Nacht auf, sah den Schatten und nach einigen Minuten beging er Selbstmord.</item>
+        <item>Ein Mann tötete den Bürgermeister vor dem Publikum, aber er geriet ins Gefängnis nicht.</item>
+    </string-array>
+
+    <string-array name="full_stories">
+        <item>Die Frau wachte in der Nacht auf und sah den Schatten vom Brieftaube. Der Brief war vom Kameraden ihres Mannes. Im Brief stand es, dass ihr Mann kam ums Leben. Sie konnte nicht die Bürde des Verlusts ertragen. Die Frau beging Selbstmord.</item>
+        <item>Der Mann arbeitete als Henker und richtete den Bürgermeister für seine Verbrechen hin.</item>
+    </string-array>
+</resources>

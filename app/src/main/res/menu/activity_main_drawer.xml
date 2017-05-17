@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_unsolved"
+            android:icon="@drawable/ic_menu_unsolved"
+            android:title="@string/unsolved"/>
+        <item
+            android:id="@+id/nav_solved"
+            android:icon="@drawable/ic_menu_solved"
+            android:title="@string/solved"/>
+    </group>
+
+    <group
+        android:id="@+id/menu_bottom"
+        android:checkableBehavior="none">
+        <item
+            android:id="@+id/nav_buy_full_version"
+            android:icon="@drawable/ic_menu_buy_full_version"
+            android:title="@string/buy_full_version"/>
+        <item
+            android:id="@+id/nav_tutorial"
+            android:icon="@drawable/ic_menu_tutorial"
+            android:title="@string/tutorial"/>
+        <item
+            android:id="@+id/nav_choose"
+            android:icon="@drawable/ic_menu_choose"
+            android:title="@string/choose"/>
+        <item
+            android:id="@+id/nav_send_your_story"
+            android:icon="@drawable/ic_menu_send_your_story"
+            android:title="@string/send_your_story"/>
+        <item
+            android:id="@+id/nav_rate_app"
+            android:icon="@drawable/ic_menu_rate_app"
+            android:title="@string/rate_app"/>
+        <item
+            android:id="@+id/nav_about"
+            android:icon="@drawable/ic_menu_about"
+            android:title="@string/about"/>
+    </group>
+
+</menu>

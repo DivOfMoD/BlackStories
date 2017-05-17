@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Black Stories</string>
+
+    <string name="banner_ad_unit_id">ca-app-pub-9614953003503909/5034559873</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="lang">Language</string>
+    <string name="lang_dialog_title">Choose language:</string>
+    <string name="unsolved">Unsolved</string>
+    <string name="solved">Solved</string>
+    <string name="exiting_the_application">Exiting the application</string>
+    <string name="quit_the_application">Quit the application?</string>
+    <string name="buy_full_version">Buy full version</string>
+    <string name="tutorial">Tutorial</string>
+    <string name="send_your_story">Send your story</string>
+    <string name="rate_app">Rate app</string>
+    <string name="close">Close</string>
+    <string name="mark_as_solved">Mark as solved</string>
+    <string name="not_unsolved_stories">You do not have unsolved stories</string>
+    <string name="more_stories_in_the_full">More stories in the full version of the app!</string>
+    <string name="buy">Buy</string>
+    <string name="not_solved_stories">You do not have solved stories</string>
+    <string name="send_email">Send email…</string>
+    <string name="solution">Solution</string>
+    <string name="developed_by">The application is developed by</string>
+    <string name="about">About</string>
+    <string name="tutorial_text_1">Black Stories is a game for the company.\nChoose one person to be a narrator.</string>
+    <string name="tutorial_text_2">The narrator reads only the short story to the others and then reads the full story to himself.</string>
+    <string name="tutorial_text_3">People ask questions and he can answer only \"yes\", \"no\", \"it does not matter\".\nThe story is finished when somebody tells the full version of the story.</string>
+    <string name="choose">Choose</string>
+    <string name="number_of_players">Enter the number of players</string>
+    <string name="enter_number_error">Incorrect number!</string>
+</resources>

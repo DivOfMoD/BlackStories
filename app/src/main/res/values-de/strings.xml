@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Black Stories</string>
+
+    <string name="banner_ad_unit_id">ca-app-pub-9614953003503909/5034559873</string>
+
+    <string name="navigation_drawer_open">Navigationsbereich öffnen</string>
+    <string name="navigation_drawer_close">Navigationsbereich schließen</string>
+
+    <string name="lang">Sprache</string>
+    <string name="lang_dialog_title">Wählen Sie die Sprache aus</string>
+    <string name="unsolved">Ungelöst</string>
+    <string name="solved">Gelöst</string>
+    <string name="exiting_the_application">Das App verlassen</string>
+    <string name="quit_the_application">Wollen Sie das App verlassen?</string>
+    <string name="buy_full_version">Vollversion kaufen</string>
+    <string name="tutorial">Regeln</string>
+    <string name="send_your_story">Ihre Geschichte senden</string>
+    <string name="rate_app">App bewerten</string>
+    <string name="close">Schließen</string>
+    <string name="mark_as_solved">Als gelöst bezeichnen</string>
+    <string name="not_unsolved_stories">Sie haben keine ungelösten Geschichten</string>
+    <string name="more_stories_in_the_full">Es gibt keine Geschichten in der Vollversion des Apps mehr!</string>
+    <string name="buy">Kaufen</string>
+    <string name="not_solved_stories">Sie haben keine gelösten Geschichten</string>
+    <string name="send_email">E-Mail schicken…</string>
+    <string name="solution">Lösung</string>
+    <string name="developed_by">Das App wurde ausgearbeitet</string>
+    <string name="about">Über uns</string>
+    <string name="tutorial_text_1">Black Stories ist ein Spiel für eine Gruppe von Menschen.\nWählt einen Menschen, der ein Erzähler wird.</string>
+    <string name="tutorial_text_2">Der Erzähler liest eine kurze Erzählung für alle Anderen vor, und dann liest er die ganze Geschichte still.</string>
+    <string name="tutorial_text_3"> Menschen stellen Fragen, und er kann darauf nur "ja", "nein" oder "es hat keine Bedeutung" antworten.\nDie Geschichte wird für abgeschlossen gehalten, wenn jemand die ganze Geschichte erzählt.</string>
+    <string name="choose">Wählen</string>
+    <string name="number_of_players">Geben Sie die Anzahl von den Spielern an</string>
+    <string name="enter_number_error">Unkorrekte Zahl!</string>
+</resources>

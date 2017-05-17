@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "607233583389",
+    "firebase_url": "https://blackstories-3f3d7.firebaseio.com",
+    "project_id": "blackstories-3f3d7",
+    "storage_bucket": "blackstories-3f3d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607233583389:android:ed58364cceae4d65",
+        "android_client_info": {
+          "package_name": "com.divofmod.blackstories"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "607233583389-6b2uoe9lllel7n50fi8i5ug5uibjallv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.divofmod.blackstories",
+            "certificate_hash": "a0a7338ae248adfb197b5c45f6b053a36ff4fc67"
+          }
+        },
+        {
+          "client_id": "607233583389-g1oa1qf6a2161vn2nd0osmijubig78ci.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEPG2IEBRxB30mTWC2pzjC4Jw42YaeL-c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "607233583389-g1oa1qf6a2161vn2nd0osmijubig78ci.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
