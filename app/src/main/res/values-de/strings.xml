@@ -2,7 +2,7 @@
 <resources>
     <string name="app_name">Black Stories</string>
 
-    <string name="banner_ad_unit_id">ca-app-pub-9614953003503909/5034559873</string>
+    <string name="banner_ad_unit_id"></string>
 
     <string name="navigation_drawer_open">Navigationsbereich öffnen</string>
     <string name="navigation_drawer_close">Navigationsbereich schließen</string>
