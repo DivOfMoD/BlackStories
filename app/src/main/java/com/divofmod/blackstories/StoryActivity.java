@@ -35,7 +35,7 @@ public class StoryActivity extends AppCompatActivity {
         getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN, WindowManager.LayoutParams.FLAG_FULLSCREEN);
         setContentView(R.layout.activity_story);
 
-        MobileAds.initialize(getApplicationContext(), "ca-app-pub-9614953003503909~2081093477");
+        MobileAds.initialize(getApplicationContext(), "");
 
         mAdView = (AdView) findViewById(R.id.adView);
         AdRequest adRequest = new AdRequest.Builder()
